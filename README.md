@@ -20,8 +20,11 @@ Open command prompt add below commands
 ### Note : as Used free Db it may cause problem due to connection issue
 
 you can set local db credentials in application.properties file
+
 spring.datasource.url=jdbc:mysql://localhost:{port}/{DBNAME}
+
 spring.datasource.username={USERNAME}
+
 spring.datasource.password={PASSWORD}
 
 Here the screenshot of stored request and response data
