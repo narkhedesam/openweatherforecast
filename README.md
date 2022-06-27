@@ -30,8 +30,15 @@ Here the screenshot of stored request and response data
 
 
 
+# To Access Frontend demo (deplyed on static page using spring boot app)
+
+    localhost:{port}/api/index.html
+    displayed minimum information fetched from the api for Pune Location. Here location is static to pune,IN only.
+
+
+
 # API details
-    https://narkhedesam-openweatherforecast-7jq75qr42x9w-8080.githubpreview.dev/api/ows/forecast?city=pune&country=india
+    localhost:{port}/api/ows/forecast?city=pune&country=india
     
 # Response
 
